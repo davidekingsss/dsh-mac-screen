@@ -6,7 +6,7 @@ whenToUse: 需要知道屏幕上此刻显示什么、某个 app 的当前状态�
 
 # 看屏幕
 
-工具:`~/.local/bin/macs`(下称 `macs`)。源码与构建脚本在工作区 `mac-screen/`,重新编译后需要再装一次。
+工具:`~/.local/bin/macs`(下称 `macs`)。源码与构建脚本在独立工作区 `dsh-mac-screen/`,改完跑 `./build.sh --install` 才生效。
 
 ## 0. 三十秒决策
 
